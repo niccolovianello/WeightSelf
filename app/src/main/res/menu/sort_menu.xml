@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_data" android:title="Data"/>
+    <item android:id="@+id/sort_stazione" android:title="Stazione"/>
+    <item android:id="@+id/sort_prezzo" android:title="Prezzo"/>
+</menu>
